@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="styles.css">
+   
 </head>
 <body>
     <div class="container">
@@ -13,7 +13,7 @@
         </div>
         <button onclick="mostrarImagen()">Presionar</button>
         <div id="imagenContainer">
-            <!-- Aquí se mostrará la imagen -->
+        
         </div>
     </div>
 
